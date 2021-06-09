@@ -16,6 +16,8 @@ Gehen Sie dabei wie folgt vor:
 + Legen Sie Branches an, in denen Sie die Teilaufgaben realisieren und schließen Sie Issues nach dem Erledigen der Aufgabe. Denken Sie daran, die finale Version mit einem Release-Tag zu versehen.
 + Generieren Sie abschließend ein UML Diagramm, das die Lösung mit allen Feldern und Methoden dokumentiert und veröffentlichen Sie Ihr Diagramm im Wiki.
 
+Tragen Sie bitte wiederum die Aufteilung Ihrer Rollen in die `team.config` ein.
+
 ## Aufgabe
 
 Schreiben Sie ein Programm, das in der Lage ist, eine Haustierverwaltung zu realisieren.
