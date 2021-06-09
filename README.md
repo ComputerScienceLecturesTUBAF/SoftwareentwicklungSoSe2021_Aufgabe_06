@@ -1,0 +1,2 @@
+# SoftwareentwicklungSoSe2021_Aufgabe_07-
+Objektorientierter Entwurf
