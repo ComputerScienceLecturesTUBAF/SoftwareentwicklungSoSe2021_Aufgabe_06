@@ -2,7 +2,7 @@
 
 ## Bearbeitungzeit
 
-SWE: 16. Juni - 30. Juni 2020 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 14. Juni - 18. Juni 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 ## Idee der Übung
 
