@@ -1,8 +1,8 @@
-# Softwareentwicklung SoSe2021 Aufgabe 06
+# Softwareentwicklung SoSe2022 Aufgabe 06
 
 ## Bearbeitungzeit
 
-SWE: 14. Juni - 18. Juni 2021 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 13. Juni - 17. Juni 2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 ## Idee der Übung
 
