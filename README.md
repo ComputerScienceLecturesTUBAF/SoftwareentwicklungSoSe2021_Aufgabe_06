@@ -1,8 +1,8 @@
-# Softwareentwicklung SoSe2022 Aufgabe 06
+# Softwareentwicklung SoSe2023 Aufgabe 06
 
 ## Bearbeitungzeit
 
-SWE: 13. Juni - 17. Juni 2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 12. Juni - 16. Juni 2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 ## Idee der Übung
 
@@ -11,11 +11,9 @@ Mit dem Aufgabenblatt sollen Ihre Fähigkeiten beim objektorientierten Entwurf u
 Gehen Sie dabei wie folgt vor:
 
 + Der Projekt Maintainer entwirft zunächst ausgehend aus der vorhandenen Aufgabenstellung eine Klassenstruktur in UML mit PlantUML.
-+ Halten Sie den Entwurf in einem Issue fest damit der Developer diese Klassenstruktur (zuerst nur die Struktur) in Csharp umsetzen kann. Die Klassen sollen dabei in einzelnen Dateien gespeichert werden. Vergleichen Sie das Fragment und das Modell in einer in einer gemeinsamen Videokonferenz. Wo ist der Entwickler warum abgewichen? Welche Änderungen schlägt sie/er vor?
++ Halten Sie den Entwurf in einem Issue fest damit der Developer diese Klassenstruktur (zuerst nur die Struktur) in Csharp umsetzen kann. Die Klassen sollen dabei in einzelnen Dateien gespeichert werden. Vergleichen Sie gemeinsam das Fragment und das Modell. Wo ist der Entwickler warum abgewichen? Welche Änderungen schlägt sie/er vor?
 + Ordnen Sie über Issues die Zuständigkeiten bei der weiteren Implementierung, teilen Sie dabei die Teilaufgaben gleichmäßig unter Projektteilnehmern auf. Legen Sie Branches an, in denen Sie die Teilaufgaben realisieren und schließen Sie Issues nach dem Erledigen der Aufgabe. Denken Sie daran, die finale Version mit einem Release-Tag zu versehen.
 + Generieren Sie abschließend ein UML Diagramm, das die Lösung mit allen Feldern und Methoden dokumentiert und veröffentlichen Sie Ihr Diagramm im Wiki.
-
-Tragen Sie bitte wiederum die Aufteilung Ihrer Rollen in die `team.config` ein.
 
 ## Aufgabe
 
